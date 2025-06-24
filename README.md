@@ -11,12 +11,12 @@ This is a full-stack Virtual Deal Room platform that allows **Buyers** and **Sel
 
 ## 📦 Tech Stack
 
-- **Frontend**: React, Redux, React Router, Axios, TailwindCSS
+- **Frontend**: React, Redux, React Router, Axios
 - **Backend**: Node.js, Express.js, MongoDB (Mongoose)
 - **Authentication**: JWT (stored in HTTP-only cookies)
 - **Real-time Communication**: Socket.io (for chat)
-- **Storage**: Firebase (for images), MongoDB Atlas
-- **Deployment**: Render.com (backend), Netlify/Vercel (frontend)
+- **Storage**: cloudinery (for images), MongoDB Atlas
+- **Deployment**: Render.com (backend), Vercel (frontend)
 
 ---
 
@@ -24,7 +24,7 @@ This is a full-stack Virtual Deal Room platform that allows **Buyers** and **Sel
 
 1. **Buyer**
 2. **Seller**
-3. **Admin (subdomain: `admin.domain.com`)**
+3. **Admin (incomplete)**
 
 ---
 
